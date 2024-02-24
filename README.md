@@ -2,6 +2,7 @@
 
 ## Why?
 Goal: Load custom scenarios on `"Help me remember, Satori-sama"`.  
+![image](https://github.com/Alex4386/helpmesatori-reveng/assets/27724108/0a20ded4-c4a8-4f79-9878-c6fbd09f7278)
 
 ## Superficial Analysis
 * Engine: Unity Engine 2020.3.3.25184
