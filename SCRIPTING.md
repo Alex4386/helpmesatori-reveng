@@ -16,7 +16,7 @@ The stage scripts are available at following location:
 For example, Tutorial opening script for Korean is available as following: `data/stageedevent_0_kr/StageOPEvent_0_kr`
 
 > [!NOTE]  
-> The locale code is differs from `ISO639 Standard` in case of Korean. Here are the references:  
+> The locale code differs from `ISO639 Standard` in case of Korean. Here are the references:  
 > * English: `en`
 > * **Korean: `kr`** (Note that it isn't `ko`)
 > * Chinese: `zh`
