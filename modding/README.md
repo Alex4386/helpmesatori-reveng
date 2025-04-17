@@ -75,13 +75,13 @@ Due to compliance with [ Guidelines for Touhou Project Fan Creators (Last update
 ### Creating `StageData` file
 The StageData file is a CSV file that contains the stage data for the game.  
 inside the `custom` folder, create a new file named `StageData` without any extension.
-The file can be generated via `html/stagedata.html`.  
+The file can be generated via [`docs/stagedata.html`](https://alex4386.github.io/helpmesatori-reveng/stagedata.html).  
 
 ### Creating `QuizData_{stage}` file
 The QuizData file is a CSV file that contains the quiz data for the game.
 inside the `custom` folder, create a new file named `QuizData_{stage}` without any extension.
 The `{stage}` is the stage number you want to create the quiz data for. (0 for tutorial, 1 for stage 1, etc.)
-The file can be generated via `html/quiz.html`.
+The file can be generated via [`docs/quiz.html`](https://alex4386.github.io/helpmesatori-reveng/quiz.html).
 
 Now start the game and you should see the custom stage data and quiz data loaded from the `custom` folder.
 Enjoy modding the game!
