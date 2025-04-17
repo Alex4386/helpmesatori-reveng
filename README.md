@@ -18,5 +18,6 @@ Contains some sort of binary (not analyzed)
 ## Internal Scripting
 See [SCRIPTING.md](SCRIPTING.md)
 
-
+## Modding the Game
+See [modding/README.md](modding/README.md)
 
