@@ -44,12 +44,12 @@ Due to compliance with [ Guidelines for Touhou Project Fan Creators (Last update
 
 ### Patching Stage Data Loading Mechanism
 1. Open the `-` tree in the `Assembly-CSharp.dll` tree.
-2. Find `MasterGameData` class under the `-` tree.
+2. Find `MasterGameData` class under the `-` tree.  
    ![Image](https://github.com/user-attachments/assets/8a273c05-b452-4722-a2cb-7823aa5a647b)
 3. Click on `MasterGameData` to open the code.
 4. You will see the MSIL decompiled and BB Obfuscated MasterGameData class.
 5. Find the `ReadStageData` method. (Use Ctrl+F to search for `ReadStageData`).
-6. Right click on `ReadStageData`, Click `Edit Method`.
+6. Right click on `ReadStageData`, Click `Edit Method`.  
    ![Image](https://github.com/user-attachments/assets/1761b332-16fd-422d-aa70-7e9c435fcbe4)
 7. Add the following code before the `bool flag = true;` line.
    ```csharp
